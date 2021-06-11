@@ -74,5 +74,26 @@ Requirements needed to deploy this project
 - Day/Night Themes : BACK.CPP
 - Mouse Functioning : MOUSE.CPP
 
+## Screenshots
+- ## Front Screen
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/1_front.jpg)
+- ## Instructions Screen
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/2_instruct.jpg)
+- ## Loading Screen
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/3_load.jpg)
+- ## Day Theme
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/4_day.jpg)
+- ## Night Theme
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/5_night.jpg)
+- ## Bullet Shot
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/6_bullet.jpg)
+- ## Bottle Burst
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/7_burst.jpg)
+- ## Game Won Screen
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/8_won.jpg)
+- ## Game Lost Screen
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/9_lost.jpg)
+- ## Exit Screen
+![Screenshot](https://github.com/namang16/Bottle-Shooter-Game/blob/master/Figures/10_exit.jpg)
 
   
