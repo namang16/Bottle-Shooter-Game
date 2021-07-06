@@ -1,7 +1,7 @@
 
 # Bottle Shooter Game
 
-This project is one of the examples for the to demonstrate the features and scope of Computer Graphics and its Applications.
+This project is one of the examples of Graphical User Interface Games to demonstrate the features and scope of Computer Graphics and its Applications.
 
 For understanding the depth of the subject of computer graphics and for gaining sound knowledge in this field, this is an attempt to take the first step in this field. 
 
